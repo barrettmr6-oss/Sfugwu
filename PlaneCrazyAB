@@ -1,27 +1,10 @@
 --[[
 ╔══════════════════════════════════════════════════════════════════════╗
-║           PLANE CRAZY — BUILD STEALER + BUILD LIBRARY  v3           ║
-║                    ✅ VERIFIED WORKING 2025                          ║
-║                                                                      ║
-║  CONFIRMED PATHS (from real working PC scripts):                     ║
-║   • workspace.PlayerAircraft[playerName]  — all player blocks        ║
-║   • workspace.BuildingZones               — plot zones               ║
-║   • ReplicatedStorage.Remotes.Move        — move a block (server)    ║
-║   • ReplicatedStorage.Remotes.Paint       — paint a block (server)   ║
-║   • Grid = 2.5 studs                                                 ║
-║                                                                      ║
-║  FEATURES:                                                           ║
-║   ✅ Copy any player's build (all blocks, colours, CFrames)          ║
-║   ✅ Paste onto YOUR plot with correct relative coordinates           ║
-║   ✅ Save builds to "PlaneCrazyBuilds" folder (writefile)            ║
-║   ✅ Load / delete saved builds from library                         ║
-║   ✅ Name your saves                                                 ║
-║   ✅ Mobile-friendly (large tap targets, scrollable lists)           ║
-║   ✅ Premium dark UI with tabs                                       ║
-║   ✅ Draggable on PC, fixed bottom-right on mobile                   ║
-║   ✅ F5 / on-screen button to toggle                                 ║
-║                                                                      ║
-║  Executors: Synapse X, KRNL, Wave, Solara, Delta, Arceus X          ║
+║                                                                                   ║
+║                                                                                   ║
+║                                                                                   ║
+║                                                                                   ║
+║  Executors: Synapse X, KRNL, Wave, Solara, Delta, Arceus X  etc                   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ]]
 
